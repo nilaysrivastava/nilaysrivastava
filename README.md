@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
 ## :mailbox: Connect with Me</br>
 <br/>
-<a href="www.linkedin.com/in/nilaysrivastava2103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilaysrivastava" height="30" width="40" /></a>&nbsp; 
+<a href="[www.linkedin.com/in/nilaysrivastava2103](https://www.linkedin.com/in/nilaysrivastava2103/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilaysrivastava" height="30" width="40" /></a>&nbsp; 
 <a href="https://www.instagram.com/nilaysriivastava/" target="blank"><img align="center" src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" alt="nilaysriivastava" height="30" width="40" /></a>
 </p>
 </div>
