@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 ## :mailbox: My Social links</br>
 <br/>
 <a href="https://leetcode.com/u/nilaysrivastava/" target="blank"><img align="center" src="https://github.com/nilaysrivastava/nilaysrivastava/assets/139038819/5eb0fd17-e63f-4b83-80b7-481b21d18108" alt="nilaysrivastava" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.geeksforgeeks.org/user/nilay2103/" target="blank"><img align="center" src="https://github.com/nilaysrivastava/nilaysrivastava/assets/139038819/e0cda6b8-c49b-4fa6-895b-f69d703561c8" alt="nilaysrivastava" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="www.linkedin.com/in/nilaysrivastava2103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilaysrivastava" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/nilaysriivastava/" target="blank"><img align="center" src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" alt="nilaysriivastava" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.geeksforgeeks.org/user/nilay2103/" target="blank"><img align="center" src="https://github.com/nilaysrivastava/nilaysrivastava/assets/139038819/e0cda6b8-c49b-4fa6-895b-f69d703561c8" alt="nilaysrivastava" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="www.linkedin.com/in/nilaysrivastava2103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilaysrivastava" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/nilaysriivastava/" target="blank"><img align="center" src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" alt="nilaysriivastava" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://personal-website-wine-sigma-44.vercel.app" target="blank"><img align="center" src="https://github.com/nilaysrivastava/nilaysrivastava/assets/139038819/3a1c61ba-c0fa-4f34-82e7-5a0791b33e14" alt="nilaysriivastava" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>
 </div>
