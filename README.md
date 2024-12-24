@@ -96,13 +96,13 @@ Here are some ideas to get you started:
 </br>
 </div>
 <br />
-<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=nilaysrivastava&theme=gotham&show_icons=true" alt="parasmahla1"/>&nbsp; &nbsp; 
+<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=nilaysrivastava&theme=gotham&show_icons=true" alt="nilaysrivastava"/>&nbsp; &nbsp; 
 
 <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=nilaysrivastava&show_icons=true&theme=gotham"/>
 </p>
 
 <p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=nilaysrivastava&theme=gotham"/>&nbsp; &nbsp; 
-<img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+<img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="nilaysrivastava" />
 
 </p>
 
