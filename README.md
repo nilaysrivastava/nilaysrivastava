@@ -4,7 +4,9 @@
 <p align="center"><a href="https://github.com/nilaysrivastava"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Nilay+Srivastava%F0%9F%91%8B;A+Self-motivated+Tech+Enthusiast;Always+Learning+New+Things;" alt="Typing SVG" /></a></p>
 
 <div align="center">
+  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 </div>
 
 <div align="center">
