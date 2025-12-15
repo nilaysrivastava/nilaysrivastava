@@ -97,6 +97,7 @@ Here are some ideas to get you started:
 </div>
 <br />
 
+<p align="center">
 <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=nilaysrivastava&show_icons=true&theme=gotham"/>
 </p>
 
