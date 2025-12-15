@@ -96,7 +96,6 @@ Here are some ideas to get you started:
 </br>
 </div>
 <br />
-<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=nilaysrivastava&theme=gotham&show_icons=true" alt="nilaysrivastava"/>&nbsp; &nbsp; 
 
 <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=nilaysrivastava&show_icons=true&theme=gotham"/>
 </p>
